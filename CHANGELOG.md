@@ -1,6 +1,6 @@
 # Bunga_Bot - Change Log
 
-## Version 1.0.0 (2023-08-01)
+## Version 0.1.0 (2023-08-01)
 
 ### Features
 + Added **dynamic command loading** from files upon initialization

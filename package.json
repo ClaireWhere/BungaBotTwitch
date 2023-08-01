@@ -1,6 +1,6 @@
 {
   "name": "bungabot",
-  "version": "1.0.0",
+  "version": "0.1.0",
   "description": "Simple Twitch chat bot for AAAAurora_'s stream",
   "main": "app.js",
   "scripts": {
