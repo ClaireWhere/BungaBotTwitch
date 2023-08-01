@@ -1,7 +1,7 @@
 module.exports = {
     data: {
         name: 'arena',
-        description: 'sets up a Smash arena',
+        description: 'displays, sets, or clears the current arena for tournaments',
         defaultPermissions: false,
         arena_id: null
     },

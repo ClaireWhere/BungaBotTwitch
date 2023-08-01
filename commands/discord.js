@@ -1,7 +1,7 @@
 module.exports = {
     data: {
         name: 'discord',
-        description: 'sends discord information',
+        description: 'sends the discord server invite link',
         defaultPermissions: false
     },
     execute(client, channel, tags, args) {
