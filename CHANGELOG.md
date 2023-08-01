@@ -7,7 +7,7 @@
 
 ### Commands
 + Added **!arena**
-+ Added !**discord**
++ Added **!discord**
 + Added **!meds**
 + Added **!onlyfans**
 + Added **!pronouns**
