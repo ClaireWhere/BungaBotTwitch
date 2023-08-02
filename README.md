@@ -33,6 +33,8 @@ npm start
     - sends roblox username
 * `!switch`
     - sends switch friend code
+* `!tip`
+    - sends streamlabs tip link
 
 </details>
 

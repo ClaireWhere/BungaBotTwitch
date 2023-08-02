@@ -1,5 +1,10 @@
 # Bunga_Bot - Change Log
 
+## Version 0.1.1 (2023-08-01)
+
+### Commands
++ Added **!tip**
+
 ## Version 0.1.0 (2023-08-01)
 
 ### Features
