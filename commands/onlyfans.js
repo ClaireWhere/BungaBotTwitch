@@ -1,10 +1,8 @@
-module.exports = {
-    data: {
-        name: 'onlyfans',
-        description: '',
-        defaultPermissions: false
-    },
-    execute(client, channel, tags, args) {
-        client.say(channel, `*bonk* go to horny jail!`);
-    }
+export const data = {
+    name: 'onlyfans',
+    description: '',
+    defaultPermissions: false
+};
+export function execute(client, channel, tags, args) {
+    client.say(channel, `*bonk* go to horny jail!`);
 }
