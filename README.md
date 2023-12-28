@@ -1,4 +1,4 @@
-# Bunga_Bot
+# BungaBotTwitch
 
 A Twitch chat bot for <a href='https://www.twitch.tv/AAAAurora_'>AAAAurora_'s</a> stream
 
