@@ -1,8 +1,12 @@
-import { data as _data, execute as _execute } from './switch.js';
+const { data: _data, execute: _execute } = require('./switch.js');
 
-export const data = {
-    name: 'fc',
-    description: _data.description,
-    defaultPermissions: _data.defaultPermissions
+module.exports = {
+    data: {
+        name: 'fc',
+        description: _data.description,
+        defaultPermissions: _data.defaultPermissions,
+    },
+    execute(client, channel, tags, args) {
+        _execute(client, channel, tags, args);
+    }
 };
-export const execute = _execute;
