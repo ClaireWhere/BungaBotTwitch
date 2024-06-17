@@ -5,6 +5,6 @@ module.exports = {
         defaultPermissions: false
     },
     execute(client, channel, tags, args) {
-        client.say(channel, `AAAAurora_'s pronouns are she/her and xe/xer!`);
+        client.say(channel, `AAAAurora_'s pronouns are xe/xer and it/its!`);
     }
 };
