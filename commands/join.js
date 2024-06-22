@@ -1,6 +1,6 @@
 module.exports = {
     data: {
-        name: 'bunga-join',
+        name: 'bungajoin',
         description: `sends !join`,
         defaultPermissions: false
     },
